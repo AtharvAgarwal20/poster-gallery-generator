@@ -2,7 +2,7 @@
     "posters": [
         {
             "title": "Naruto Poster",
-            "url": "assets/poster.jpg",
+            "url": "poster.jpg",
             "tags": [
                 "anime",
                 "vibrant",
@@ -11,7 +11,7 @@
         },
         {
             "title": "Teeth Poster",
-            "url": "assets/teeth.jpg",
+            "url": "teeth.jpg",
             "tags": [
                 "vibrant",
                 "portrait",
