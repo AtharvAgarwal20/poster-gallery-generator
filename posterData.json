@@ -1,0 +1,23 @@
+{
+    "posters": [
+        {
+            "title": "Naruto Poster",
+            "url": "assets/poster.jpg",
+            "tags": [
+                "anime",
+                "vibrant",
+                "portrait"
+            ]
+        },
+        {
+            "title": "Teeth Poster",
+            "url": "assets/teeth.jpg",
+            "tags": [
+                "vibrant",
+                "portrait",
+                "motivation",
+                "hygiene"
+            ]
+        }
+    ]
+}
